@@ -36,3 +36,12 @@
 </picture>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+
+<!-- New Animated Contributors -->
+<div style="margin-top:20px">
+
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/Edith-MD/Edith-MD/graphs/contributors)
+
+</div>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
