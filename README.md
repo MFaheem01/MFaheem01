@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'M+FaHeeM!;" />
 </h1>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
 <h3 align="center"><b>CoooDer</b>
 </h3>
@@ -14,6 +15,8 @@
     <img src="https://skillicons.dev/icons?i=github,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql" />
   </a>
 </br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
 <!-- </p>
 
