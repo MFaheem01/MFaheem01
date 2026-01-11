@@ -20,12 +20,9 @@
 
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Frontend Web Projects**
-- 🌱 I’m currently learning **JavaScript (Advanced) & React**
-- 👯 I’m looking to collaborate on **Web Development Projects**
-- 🤔 I’m looking for help with **Modern JavaScript & React**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- ⚡ Fun fact: *I enjoy turning ideas into real websites*
+<a align="center" href="https://wa.me/92154937411" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
 
 <details>
