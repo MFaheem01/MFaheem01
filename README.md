@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://codehavennn.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql,photoshop" />
   </a>
 </br>
 
