@@ -19,21 +19,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
 
-
-<h3 align="center">
-   MFaheem01/MFaheem01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-</h3>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Frontend Web Projects**
+- 🌱 I’m currently learning **JavaScript (Advanced) & React**
+- 👯 I’m looking to collaborate on **Web Development Projects**
+- 🤔 I’m looking for help with **Modern JavaScript & React**
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- ⚡ Fun fact: *I enjoy turning ideas into real websites*
 
 
 <details>
