@@ -11,7 +11,7 @@
 ###
 <p align="center">
   <a href="https://codehavennn.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql" />
   </a>
 </br>
 
