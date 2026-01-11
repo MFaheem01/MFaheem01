@@ -11,7 +11,7 @@
 ###
 <p align="center">
   <a href="https://bandaheali.site">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql,dotnet&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql&perline=10" />
   </a>
 </br>
 
