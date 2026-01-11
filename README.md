@@ -4,7 +4,7 @@
 </h1>
 
 
-<h3 align="center"><i>Passionate</i> <b>Software Engineer</b> <i>&<i> <b>Content Creator</b>
+<h3 align="center"><b>CoooDer</b>
 </h3>
 
 ---
