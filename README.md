@@ -7,8 +7,8 @@
 <h3 align="center"><b>CoooDer</b>
 </h3>
 
----
-###
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+
 <p align="center">
   <a href="https://codehavennn.netlify.app/">
     <img src="https://skillicons.dev/icons?i=github,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql" />
