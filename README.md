@@ -40,7 +40,7 @@
 <!-- New Animated Contributors -->
 <div align="center">
 
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+%E2%AD%90)]([https://github.com/MFaheem01](https://github.com/MFaheem01))
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+&#127887;SPECIAL+THANKS+FOR+VISTING+&#127872)]([https://github.com/MFaheem01](https://github.com/MFaheem01))
 
 </div>
 
