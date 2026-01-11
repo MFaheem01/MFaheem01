@@ -14,14 +14,6 @@
     <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,dotnet&theme=light&perline=10" />
   </a>
 </br>
-  <a href="https://Bandaheali.site">
-    <img src="https://skillicons.dev/icons?i=django,flask,firebase,flutter,r,postgres,wordpress,tailwind &theme=light&perline=8" />
-  </a>
-  </br>
-  <a href="https://Bandaheali.site">
-    <img src="https://skillicons.dev/icons?i=ps,pr,ai,au,ae,notion" />
-  </a>
-
 
 <!-- </p>
 
