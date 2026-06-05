@@ -11,7 +11,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
 <p align="center">
-  <a href="https://codehavennn.netlify.app/">
+  <a href="https://my-protofolio-two.vercel.app/">
     <img src="https://skillicons.dev/icons?i=github,html,css,js,ts,react,bootstrap,vscode,idea,figma,nodejs,nextjs,mysql,photoshop" />
   </a>
 </br>
